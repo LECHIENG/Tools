@@ -120,14 +120,14 @@ Proxy:
 - name: "Github-gcp-v2ray"
   type: vmess
   server: www.leecheung.xyz
-  port: 443
+  port:443
   uuid: 96b55f6d-c8cf-43cb-b6fa-855ee74e41e5
   alterId: 32
   cipher: auto
   tls: true
   network: ws
   ws-path: /15c444a5/
-  Host: v2rayssr.com
+  Host: www.leecheung.xyz
 ###############################################################配置分割线
 
 # 代理组策略
